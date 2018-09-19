@@ -95,6 +95,9 @@
   width:307px;
   height:47px;
   display:flex;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
   font-size:18px;
   color:#FFFFFF;
 }
